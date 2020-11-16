@@ -1,6 +1,8 @@
-=====
 mflix
 =====
+
+<img src="https://university.mongodb.com/course_completion/311a1c62-2929-4463-a620-c529741fee9b/printable?format=img"/>
+
 
 This is a short guide on setting up the system and environment dependencies
 required for the MFlix application to run.
